@@ -1,0 +1,2 @@
+# dokumentacja
+dokumentacja.hipermodularyzacja.pl
